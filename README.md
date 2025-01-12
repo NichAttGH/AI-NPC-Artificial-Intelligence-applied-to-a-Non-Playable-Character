@@ -1,6 +1,6 @@
 # AI NPC: Artificial Intelligence applied to a Non-Playable Character
 ## Description
-This project aims to integrate artificial intelligence into an NPC (Non-Playable Character) within a game environment. The project used Unreal Engine 5.4.4 as the development environment and made use of plugins such as ConvAI and MetaHumans. More details are in [AI_NPC](https://github.com/NichAttGH/AI_NPC/blob/main/AI_NPC.pdf)
+This project aims to integrate artificial intelligence into an NPC (Non-Playable Character) within a game environment. The project used Unreal Engine 5.4.4 as the development environment and made use of plugins such as ConvAI and MetaHumans. [AI_NPC](https://github.com/NichAttGH/AI_NPC/blob/main/AI_NPC.pdf) for more details.
 
 ## Main activities
 - Creation of an NPC capable of interacting with users via verbal communication.
