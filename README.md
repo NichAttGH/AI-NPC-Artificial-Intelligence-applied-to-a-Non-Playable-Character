@@ -17,7 +17,7 @@ This project aims to integrate artificial intelligence into an NPC (Non-Playable
 The project demonstrated the feasibility of implementing AI in NPCs to create more immersive and interactive game experiences. Flip-Flop communication has proven to be the most accurate, while buttonless communication, although with some issues, is the most suitable for the project goal. Future prospects include solving the problems of buttonless communication, implementing custom actions, and more interaction with the environment.
 
 ## How to test
-Download from here: [AI NPC UE](https://mega.nz/file/lMRSRKDR#RZp6RjB9BvD-POW4-S3b-NL2hTpgo8GKtZWOqGP1p2I)
+Download from here: [Demo](https://mega.nz/file/lMRSRKDR#RZp6RjB9BvD-POW4-S3b-NL2hTpgo8GKtZWOqGP1p2I)
 
 <b>IMPORTANT</b>: To see it correctly, please runs on [Unreal Engine 5.4.4](https://www.unrealengine.com/en-US/download)
 
